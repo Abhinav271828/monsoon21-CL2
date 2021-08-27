@@ -11,3 +11,4 @@ Notes and resources for the Computational Linguistics – 2 course at IIIT Hyde
         - Semantic Primitives
 * Week 2
     * Lecture 3 (24 August, Tuesday)
+    * Lecture 4 (27 August, Friday)
