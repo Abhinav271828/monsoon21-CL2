@@ -1,6 +1,6 @@
 ---
-title: Semantics: A Coursebook
-subtitle: Chapter 1: Basic Ideas in Semantics
+title: "Semantics: A Coursebook"
+subtitle: "Chapter 1: Basic Ideas in Semantics"
 ---
 
 # Unit 1: About Semantics

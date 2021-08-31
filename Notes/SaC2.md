@@ -1,6 +1,6 @@
 ---
-title: Semantics: A Coursebook
-subtitle: Chapter 2: From Reference...
+title: "Semantics: A Coursebook"
+subtitle: "Chapter 2: From Reference..."
 ---
 
 # Unit 4: Referring Expressions
