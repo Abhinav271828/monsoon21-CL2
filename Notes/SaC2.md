@@ -30,3 +30,19 @@ There are expressions (like proper nouns) which are almost always referring expr
 A *generic sentence* is one in which some statement is made about a whole class of individuals, rather than any specific one.  
 
 We will expand the definition of referring expressions to include objects in imagined worlds (like *unicorn*) and non-physical, intangible things (like *tomorrow*). The *universe of discourse* for any utterance is the particular world (real or imaginary) that the speaker assumes they are talking about at the time.
+
+# Unit 7: Deixis and Definiteness
+The word "deixis" is from a Greek word meaning "pointing". A *deictic* word is one which takes some element of its meaning from the context or situation of the utternce in which it is used. Either referring expressions (like *I*, *today*) or predicates (like *come*) can be deictic. Tenses are a grammatical device that exhibits deixis.  
+
+The *context* of an utterance is a small subpart of the universe of discourse shared by speaker and hearer, and includes facts about the topic of the conversation in which the utterance occurs, and also facts about the situation in which the conversation itself takes place.  
+If some entity(/ies) is/are the only entity(/ies) of its/their kind in the context of an utterance, then the definite article *the* is the appropriate article to use in referring to it/them.  
+
+*Definiteness* is the feature of a NP selected by a speaker to convey their assumption that the hearer will be able to identify the referent of the NP (usually because it is the only thing of its kind in the context of utterance or unique in the UoD). *The* is one word used to convey definiteness; others include *that* (as in *that book*), personal pronouns, etc.  
+
+# Unit 8: Words and Things – Extensions and Prototypes
+The *extension* of a one-place predicate is the set of all individuals to which that predicate can be truthfully applied, or the set of things which can potentially be referred to by using an expression whose main element is that predicate.  
+An extension is usually a set of physical objects. It is like sense in that it is independent of any one utterance; it is like reference in that it connects a linguistic unit to something outside language.  
+Extensions are relative to all times, and can refer to things that existed or will exist in times other than the present, or only in imaginary worlds.  
+Extensions are typically fuzzy sets; it is rarely fully clear whether a certain object belongs to the extension of a predicate or not.  
+
+A *prototype* of a predicate is an object which is held to be very typical of the kind of object which can be referred to by an expression containing the predicate. Definition by pointing to a prototype is called *ostensive definition*.
