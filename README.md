@@ -17,3 +17,4 @@ Notes and resources for the Computational Linguistics – 2 course at IIIT Hyde
 * Week 4
 * Week 5
     * Lecture 6 (14 September, Tuesday)
+    * Lecture 7 (17 September, Friday)
