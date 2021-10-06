@@ -1,0 +1,13 @@
+Refs:
+https://plato.stanford.edu/entries/anaphora/
+
+Papers:
+• https://aclanthology.org/J94-4002.pdf (https://sci-hub.se/https://www.worldscientific.com/doi/abs/10.1142/S021821309200020X)
+
+• https://sci-hub.se/https://www.sciencedirect.com/science/article/pii/0024384178900062
+
+- https://aclanthology.org/C94-2189.pdf
+
+- http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=70BE429353B3BBC00FFF9937081DA96B?doi=10.1.1.13.8470&rep=rep1&type=pdf
+
+- https://aclanthology.org/C96-1021.pdf
